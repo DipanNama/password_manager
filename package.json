@@ -1,0 +1,25 @@
+{
+  "name": "password_manager",
+  "version": "1.0.0",
+  "description": "password manager for my personal accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DipanNama/password_manager.git"
+  },
+  "author": "Dipan Nama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DipanNama/password_manager/issues"
+  },
+  "homepage": "https://github.com/DipanNama/password_manager#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
